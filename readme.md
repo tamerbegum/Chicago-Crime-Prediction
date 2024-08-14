@@ -1,5 +1,8 @@
 # Chicago Crime Analysis and Prediction
 
+## Link To the Dataset
+https://www.kaggle.com/datasets/currie32/crimes-in-chicago
+
 ## Project Overview
 This project analyzes crime data from Chicago and builds machine learning models to predict arrests. It includes exploratory data analysis, data preprocessing, and the implementation of various machine learning algorithms.
 
